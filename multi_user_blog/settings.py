@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'users.apps.UsersConfig',
+    'planner_of_classes_for_a_year_in_kindergarten.users.apps.UsersConfig',
     'blog.apps.BlogConfig',
     'crispy_forms',
     'django.contrib.admin',
